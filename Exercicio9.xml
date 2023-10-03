@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+
+<recetas>
+    <platos_principales>
+        <!--RecetaNº1-->
+        <receta>
+            <!--Informacion-->
+            <nombre>Merluza en salsa verde</nombre>
+            <imagen>https://www.recetasderechupete.com/wp-content/uploads/2020/07/Merluza-salsa-verde-1200x828.jpg</imagen>
+            <nivel>Fácil</nivel>
+            <tiempo>25 min</tiempo>
+            <autor>Alfonso López</autor>
+            <valoracion>4.3/5 (751 votos)</valoracion>
+            <personas>Para 5</personas>
+            <precio>5.5€/pers</precio>
+            <calorias>189 kcal/100g</calorias>
+
+            <!--Ingredientes y preparacion-->
+            <ingredientes>
+            - 10 rodajar de merluza (dos dedos de grosor), 2kg aproximadamente
+            - 6 dientes de ajo
+            - 300g de guisantes
+            - Un vaso de vino blanco (unos 150ml)
+            - 100ml de caldo de pescado
+            - 2 cucharas de harina de trigo
+            - 6 cucharas de aceite de oliva
+            - 5 huevos tamaño mediano.
+            - 4 cucharas con perejil picado
+            - Sal (al gusto)
+            </ingredientes>
+
+            <material>
+            - Cazuela de barro o cazuela baja
+            - Cuchara de madera
+            </material>
+
+            <preparacion>
+            1. Lavar bien las rodajas y secar con papel absorvente.
+            2. Salar las rodajar por ambos lados.
+            3. Pelar los dientes de ajo y picar muy finamente.
+            4. Poner en la cazuela el aceite con los ajos y calentar. 
+            5. Cuando comiences a dorarse, sin quemar, añadir harina y cocinar medio minuto.
+            6. Antes de que la harina tome color, echar el vino banco y remover con la cuchara de madera.
+            7. Echar el caldo y hervir durante un minuto antes de añadir el pereji picado.
+            8. Incorporar las rodajas de merluza junto con los guisantes. Cocinar cada lado del pescado durante 3 minutos.
+            9. Poner los huevos en un cazo y cubrir con agua fría. 
+            10. Cocer los huevos durante 10 minutos a partir de la ebullición.
+            11. Añador a la salsa los huevos duros
+            12. Servir.
+            </preparacion>
+
+        </receta>
+    </platos_principales>
+
+    <postres>
+        <!--RecetaNº2-->
+        <receta>
+            <!--Informacion-->
+            <nombre>Pastel de queso</nombre>
+            <imagen>https://www.recetasderechupete.com/wp-content/uploads/2018/03/Tarta-de-queso-Antonio.jpg</imagen>
+            <nivel>Fácil</nivel>
+            <tiempo>60 min</tiempo>
+            <autor>Alfonso López</autor>
+            <valoracion>4/5 (111 votos)</valoracion>
+            <personas>Para 8</personas>
+            <precio>0,9€/pers</precio>
+            <calorias>305 kcal/100g</calorias>
+
+            <!--Ingredientes y preparacion-->
+            <ingredientes>
+            - 2 paquetes de galletas Maria (con o sin gluten)
+            - 150 g de mantequilla
+            - 1 kg de crema de queso (1/2 de Mascarpone y 1/2 de queso crema)
+            - 200g de azúcar
+            - 6 huevos L
+            </ingredientes>
+
+            <material>
+            - Molde redondo 23cm x 23cm
+            - Papel vegetal o de hornear
+            </material>
+
+            <preparacion>
+            1. Engrasar el molde con mantequilla y forrarlo con papel.
+            2. Precalentar el horno a 200ºC, calor arriba y abajo.
+            3. Derretir la mantequilla en el microondas (2 minutos a temperatura baja).
+            4. Triturar 30 galletas en una picadora o poñéndolas en un microondas y machacandolas con una cuchara.
+            5. Echar las galletas en el molde y añadir la mantequilla derretida.
+            6. Introducir las mantequillas al horno a 180º por 10 minutos.
+            7. Sacar el molde y dejar enfriar la base de galleta.
+            8. Bajar la temperatura del horno a 160ºC.
+            9. En un bol, añadir los huevos y el azúcar. Batir hasta mezclarlo todo. 
+            10. Añadir el queso crema y el queso Mascarpone a temperatura ambiente.
+            11. Batir con unas varillas o usar una batidora. Batir hasta eliminas los grumos.
+            12. Echar la mezcla en el molde con la base de galleta y colocar en la bandeja del medio del horno.
+            13. Hornear 45-55 minutos.
+            14. Retirar del horno y desmoldar despues de 3 o 4 horas. Cuando se enfríe, poner en la nevera.
+            15. Consumir al siguiente día.
+            </preparacion>
+
+        </receta>
+    </postres>
+</recetas>
