@@ -2,3 +2,9 @@ h1{
     color: red;
     font-family: Helvetica; 
 }
+h2{
+    color: grey;
+}
+ol {
+    list-style-type: upper-roman;
+  }
