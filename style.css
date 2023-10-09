@@ -1,9 +1,12 @@
 h1{
     color: red;
-    font-family: Helvetica; 
+    font-family: Georgia; 
 }
 h2{
     color: grey;
+}
+strong{
+    color: orange;
 }
 ol {
     list-style-type: upper-roman;
