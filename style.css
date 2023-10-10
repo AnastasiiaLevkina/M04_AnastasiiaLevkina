@@ -1,13 +1,17 @@
 h1{
     color: red;
-    font-family: Georgia; 
+    font-family: 'Georgia'; 
 }
 h2{
     color: grey;
+    text-decoration: underline;
 }
-strong{
-    color: orange;
+p span{
+    color: #c93609;
 }
 ol {
     list-style-type: upper-roman;
   }
+a:active{
+    color:aqua;
+}
