@@ -1,0 +1,14 @@
+<?xml version="1.1" encoding="UTF-8" standalone="no"?>
+
+<!--1ra Part-->
+<persona nombre ="Pere Garcia">
+    <perro nombre="Rufy"/>
+</persona>
+
+<!--2na part-->
+<persona>
+	<nombre>Pere</nombre>
+	<apellido>Pérez</apellido>
+	<apellido2>Garcia</apellido2>
+    <edad>22</edad>
+</persona>

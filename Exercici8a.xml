@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+
+<alumno nombre="Juan García">
+    <fecha_de_nacimiento>23/08/2001</fecha_de_nacimiento>
+    <lugar_de_nacimiento>Barcelona</lugar_de_nacimiento>
+</alumno>

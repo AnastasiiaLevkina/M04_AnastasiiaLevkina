@@ -1,0 +1,32 @@
+<?xml version="1.0"? encoding="UTF-16"?>
+
+<obras_de_arte propietario="Museo">
+
+    <!--Obra Nº1-->
+    <obra nombre="Azul sobre blanco">
+        <tipo>Cuadro</tipo>
+        <estilo>Abstracto</estilo>
+        <tecnica>Óleo</tipo>
+        <autor>Pere Àguila</autor>
+        <anyo>2014</anyo>
+    </obra>
+
+    <!--Obra Nº2-->
+    <obra nombre="Gris oscuro">
+        <tipo>Cuadro</tipo>
+        <estilo>Abstracto</estilo>
+        <tecnica>Acuarela</tipo>
+        <autor>Pere Àguila</autor>
+        <anyo>2010</anyo>
+    </obra>
+
+    <!--Obra Nº3-->
+    <obra nombre="Camino largo">
+        <tipo>Escultura</tipo>
+        <estilo>-</estilo>
+        <tecnica>Marmol</tecnica>
+        <autor>Marta Lambert</autor>
+        <anyo>1981</anyo>
+    </obra>
+
+</obras_de_arte>

@@ -1,0 +1,10 @@
+<?xml version="1.1" encoding="UTF-8" standalone="no"?>
+
+<!--1ra part-->
+<corredor posicio="1">Manel Roure</corredor>
+<alumne delegat="true">Jaume Ravent</alumne>
+<coche tipo_combustible="gasolina">Seat Ibiza</coche>
+<politico cargo="alcalde" cargo2="diputat">Jordi Rufi</politico>
+
+<!--2na part-->
+<coche marca="Seat" color="Rojo" matricula="B3456L" conductor="Jorge" conductor2="Maria" alquilado="true"/>
