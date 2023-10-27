@@ -1,0 +1,12 @@
+<?zml version="1.0" encoding="uTF-8">
+<!DOCTYPE peliculas [
+    <!ELEMENT peliculas (pelicula)+>
+    <!ELEMENT palicula (#PCDATA)>
+<!ATTLIST pelicula id ID #REQUIRED precuela IDREF #IMPLIED>
+]>
+
+<peliculas>
+    <pelicula id="P1">La comunidad anillos</pelicula>
+    <pelicula id="P2" precuela="P3">Las dos torres</pelicula>
+    <pelicula id="P3" precuela="P4">El retorno del rey</pelicula>
+</peliculas>

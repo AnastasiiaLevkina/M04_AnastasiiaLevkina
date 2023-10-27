@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <link rel="stylesheet" href="./examen3.css">
+    </head>
+    <body>
+        <form action="/action_page.php" method="POST">
+            <fieldset>
+                <legend>Datos personales</legend>
+                <label>Nombre:</label>
+                <input type="text" id="nombre">
+                <br>
+                <label>Edad:</label>
+                <select id="edad">
+                    <option label="1-10" value="1-10">
+                    <option label="11-20" value="11-20">
+                    <option label="21-30" value="21-30">
+                    <option label="31-40" value="31-40">
+                    </select>
+            </fieldset>
+            <fieldset>
+                <legend>Aficiones</legend>
+                <label>Programar en Kotlin</label>
+                <input type="checkbox">
+                <br>
+                <label>Maquetar páginar web</label>
+                <input type="checkbox">
+                <br>
+                <label>Crear hojas de estilo CSS</label>
+                <input type="checkbox">
+                <br>
+            </fieldset>
+            <input type="submit" value="Enviar">
+        </form>
+    </body>
+</html>
